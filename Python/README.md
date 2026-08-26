@@ -12,4 +12,3 @@ This repository contains my Python learning journey for the Super30 program.
 ## Topics Covered So Far
 - Python basics: variables, data types, loops
 - Problem solving with Jupyter Notebooks
-- File handling with JSON
